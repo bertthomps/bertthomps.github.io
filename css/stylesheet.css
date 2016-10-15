@@ -1,3 +1,6 @@
+body {
+  margin: 0;
+  padding: 0;
 }
 
 .button {
@@ -36,12 +39,36 @@ header {
   margin: 15px 0 25px 0;
 }
 
-#splash_screen p, #splash_screen p a {
-  max-width: 90%;
+#splash_screen {
   color: #4c4c4b;
   font-family: 'Roboto', serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.45em;
-  margin-bottom: 10px;
+  margin: 0px 30px 30px 12px;
+}
+
+#images img {
+  max-width: 100%;
+  margin: 0px;
+}
+
+#images {
+  background: black;
+  padding-top: 1px;
+}
+
+#images p {
+  color: #fff;
+  font-size: 22px;
+  text-align: center;
+  margin-left: 15px;
+  margin-right: 15px;
+  font-family: 'Roboto', serif;
+}
+
+#paris_title {
+  color: #fff;
+  margin-top: 30px;
+  text-align: center;
 }
