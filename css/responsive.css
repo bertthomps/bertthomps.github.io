@@ -1,6 +1,5 @@
-@media only screen 
-and (min-device-width : 375px) 
-and (max-device-width : 667px) {
+/*
+@media only screen and (min-device-width : 375px) and (max-device-width : 667px) {
   h1 {
     font-size: 48px;
   }
@@ -17,4 +16,4 @@ and (max-device-width : 667px) {
   #logo {
     margin-top: 30px;
   }
-}
+}*/
