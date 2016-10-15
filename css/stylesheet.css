@@ -46,6 +46,7 @@ header {
   font-size: 16px;
   line-height: 1.45em;
   margin: 0px 30px 30px 12px;
+  height: 100vh;
 }
 
 #images img {
@@ -69,8 +70,10 @@ header {
 }
 
 #paris_title {
-  color: #fff;
+  color: #FEEA89;
   margin-top: 30px;
+  padding-top: 35px;
+  padding-bottom: -20px;
   text-align: center;
   
 }
