@@ -3,6 +3,10 @@
   padding: 0;
 }
 
+#home {
+  height: 100vh;
+}
+
 .button {
   background-color: #4c4c4b;
   border-radius: 28px;
@@ -45,8 +49,7 @@ header {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.45em;
-  margin: 0px 30px 30px 12px;
-  height: 100vh;
+  padding: 0px 30px 0px 12px;
 }
 
 #images img {
@@ -75,5 +78,4 @@ header {
   padding-top: 35px;
   padding-bottom: -20px;
   text-align: center;
-  
 }
