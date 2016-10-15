@@ -50,22 +50,21 @@ header {
 
 #images img {
   max-width: 100%;
-  margin: 0px;
 }
 
 #images {
   background: black;
   padding-top: 1px;
+  margin: 0px;
+  padding: 0px;
 }
 
 #images p {
   color: #fff;
   font-size: 22px;
   text-align: center;
-/*
   margin-left: 15px;
   margin-right: 15px;
-*/
   font-family: 'Roboto', serif;
 }
 
