@@ -52,18 +52,18 @@ header {
   padding: 0px 30px 0px 12px;
 }
 
-#images img {
-  max-width: 100%;
-}
-
-#images {
+#paris {
   background: black;
   margin: 0px;
   padding: 0px;
   width: 100%;
 }
 
-#images p {
+#paris img {
+  max-width: 100%;
+}
+
+#paris p {
   color: #fff;
   font-size: 22px;
   text-align: center;
