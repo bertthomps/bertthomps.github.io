@@ -59,6 +59,30 @@ table {
   background: #fffffc;
 }
 
+header {
+  height: 64px;
+  -webkit-box-shadow:0px 1px 3px 0.5px #999999;
+  -moz-box-shadow: 0px 1px 3px 0.5px #999999;
+    box-shadow: 0px 1px 3px 0.5px #999999;
+}
+
+#logo {
+  display: inline-block;
+  height: 25px;
+  width: 25px;
+  margin-top: 29.5px;
+  margin-left: 21px;
+}
+
+#menu {
+  float: right;
+  display: inline-block;
+  height: 17.725px;
+  width: 19.5px;
+  margin-top: 33.125px;
+  margin-right: 21px;
+}
+
 /*
   =======================================
   TYPOGRAPHY
