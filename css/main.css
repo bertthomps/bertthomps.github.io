@@ -86,6 +86,11 @@ header {
   margin-right: 21px;
 }
 
+.content-home {
+  position: absolute;
+  top: 64px;
+}
+
 /*
   =======================================
   TYPOGRAPHY
