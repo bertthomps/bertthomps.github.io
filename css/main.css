@@ -332,20 +332,14 @@ header {
   color: #1f1f1f;
 }
 
-.contact-email {
-  display: block;
-}
-
-.contact-phone {
-  display: block;
-}
-
 .body-contact-e {
   display: inline-block;
   font-weight: 300;
   font-size: 16px;
   line-height: 29.2px;
   color: #535353;
+  margin-top: 38px;
+  margin-left: 48px;
 }
 
 .body-contact-email {
@@ -354,7 +348,10 @@ header {
   font-size: 16px;
   line-height: 29.2px;
   color: #982649;
+  margin-top: 38px;
+  margin-left: 10px;
 }
+
 
 .body-contact-p {
   display: inline-block;
@@ -362,6 +359,8 @@ header {
   font-size: 16px;
   line-height: 29.2px;
   color: #535353;
+  margin-top: 4px;
+  margin-left: 48px;
 }
 
 .body-contact-phone {
@@ -370,4 +369,6 @@ header {
   font-size: 16px;
   line-height: 29.2px;
   color: #982649;
+  margin-top: 4px;
+  margin-left: 9.5px;
 }
