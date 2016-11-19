@@ -217,6 +217,10 @@ header {
   margin-left: 51.5px;
 }
 
+#medium-box a {
+  text-decoration: none;
+}
+
 #nextdoor-box {
   width: 276px;
   height: 107px;
@@ -306,6 +310,10 @@ header {
   color: #982649;
 }
 
+.about-button a {
+  text-decoration: none;
+}
+
 /*
   =======================================
   CONTACT
@@ -371,4 +379,263 @@ header {
   color: #982649;
   margin-top: 4px;
   margin-left: 9.5px;
+}
+
+.body-contact-email a, .body-contact-phone a {
+  text-decoration: none;
+  color: #982649;
+}
+
+.contact-linkedin {
+  width: 20.7px;
+  height: 20.5px;
+  margin-top: 56.6px;
+  margin-left: 49.5px;
+}
+
+.contact-vimeo {
+  width: 20.7px;
+  height: 18.2px;
+  margin-top: 58.9px;
+  margin-left: 19.2px;
+}
+
+/*
+  =======================================
+  MEDIUM PAGE
+  =======================================
+*/
+
+.medium-body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+.medium-splash-bg {
+  height: 667px;
+  width: 100%;
+  background: #535353;
+}
+
+.medium-logo {
+  width: 151.5px;
+  height: 32px;
+  margin-top: 127.5px;
+  margin-left: 115.5px;
+  background: none;
+}
+
+.medium-splash {
+  width: 375px;
+  height: 372.5px;
+  margin-top: 54.8px;
+  background: none;
+}
+
+/*
+  =======================================
+  MEDIUM CONTEXT
+  =======================================
+*/
+
+.medium-context-h2 {
+  font-weight: 500;
+  font-size: 28px;
+  line-height: 42px;
+  color: #20232a;
+  margin-top: 105px;
+  margin-left: 58px;
+  margin-right: 81px;
+}
+
+.medium-context-top {
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 29.2px;
+  color: #1f1f1f;
+  margin-top: 30.8px;
+  margin-right: 41px;
+  margin-left: 58px;
+}
+
+.medium-context-bottom {
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 29.2px;
+  color: #1f1f1f;
+  margin-top: 13px;
+  margin-right: 41px;
+  margin-left: 58px;
+}
+
+/*
+  =======================================
+  MEDIUM FEATURES
+  =======================================
+*/
+
+.medium-feature-bg {
+  height: 2117.5px;
+  width: 100%;
+  margin-top: 145.3px;
+  background: #535353;
+}
+
+.medium-feature-h1 {
+  font-weight: 200;
+  font-size: 39px;
+  text-transform: none;
+  line-height: 33px;
+  color: #fffffc;
+  padding-top: 97px;
+  margin-left: 103.5px;
+  background: none;
+}
+
+.medium-feature-img-1 {
+  width: 182.5px;
+  height: 366.5px;
+  background: none;
+  display: block;
+  margin-left: 96.5px;
+  margin-top: 77.5px;
+}
+
+.medium-feature-h2-1 {
+  font-weight: 500;
+  font-size: 28px;
+  line-height: 42px;
+  color: #fffffc;
+  margin-top: 54px;
+  margin-left: 48.5px;
+  background: none;
+}
+
+.medium-feature-body-1 {
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 27.6px;
+  color: #fffffc;
+  background: none;
+  margin-top: 19px;
+  margin-left: 48px;
+  margin-right: 56px;
+}
+
+.medium-feature-img-2 {
+  width: 182.5px;
+  height: 366.5px;
+  background: none;
+  display: block;
+  margin-left: 96.5px;
+  margin-top: 65.3px;
+}
+
+.medium-feature-h2-2 {
+  font-weight: 500;
+  font-size: 28px;
+  line-height: 42px;
+  color: #fffffc;
+  margin-top: 54px;
+  margin-left: 48.5px;
+  background: none;
+}
+
+.medium-feature-body-2 {
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 27.6px;
+  color: #fffffc;
+  background: none;
+  margin-top: 19px;
+  margin-left: 48px;
+  margin-right: 56px;
+}
+
+.medium-feature-img-3 {
+  width: 182.5px;
+  height: 366.5px;
+  background: none;
+  display: block;
+  margin-left: 96.5px;
+  margin-top: 65.3px;
+}
+
+.medium-feature-h2-3 {
+  font-weight: 500;
+  font-size: 28px;
+  line-height: 42px;
+  color: #fffffc;
+  margin-top: 54px;
+  margin-left: 48.5px;
+  background: none;
+}
+
+.medium-feature-body-3 {
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 27.6px;
+  color: #fffffc;
+  background: none;
+  margin-top: 19px;
+  margin-left: 48px;
+  margin-right: 56px;
+}
+
+/*
+  =======================================
+  MEDIUM CTA
+  =======================================
+*/
+
+.medium-cta-bg {
+  height: 667px;
+  width: 100%;
+}
+
+.medium-cta-h1 {
+  font-weight: 200;
+  font-size: 39px;
+  text-transform: none;
+  line-height: 50.7px;
+  color: #20232a;
+  text-align: center;
+  margin-top: 193.5px;
+}
+
+.medium-cta-button {
+  width: 150.5px;
+  height: 58.5px;
+  border: 1.1px solid #982649;
+  border-radius: 4.5px;
+  margin-left: 112.5px;
+  margin-top: 72.6px;
+}
+
+.medium-cta-button-text {
+  text-align: center;
+  margin-top: 21px;
+  font-weight: 300;
+  font-size: 16px;
+  color: #982649;
+}
+
+.medium-cta-button a {
+  text-decoration: none;
+}
+
+.medium-cta-top-icon {
+  width: 43px;
+  height: 43px;
+  margin-left: 166px;
+  margin-top: 99px;
+}
+
+.medium-cta-top-text {
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 27.6px;
+  color: #535353;
+  margin-top: 14.5px;
+  margin-left: 150px;
 }
